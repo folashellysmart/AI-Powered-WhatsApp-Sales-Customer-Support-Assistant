@@ -72,3 +72,7 @@ A[User Message] --> B[Flask Backend]
 B --> C[OpenAI API]
 C --> D[AI Response]
 D --> E[Display in Chat UI]
+## 🌐 Live Demo
+
+Try it here:  
+👉 [https://your-app.onrender.com](https://ai-powered-whatsapp-sales-customer.onrender.com)
