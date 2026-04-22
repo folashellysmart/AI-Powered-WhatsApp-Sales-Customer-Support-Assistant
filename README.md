@@ -75,4 +75,4 @@ D --> E[Display in Chat UI]
 ## 🌐 Live Demo
 
 Try it here:  
-👉 [https://your-app.onrender.com](https://ai-powered-whatsapp-sales-customer.onrender.com)
+👉 ai-whatsapp-banner.png
