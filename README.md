@@ -79,4 +79,3 @@ D --> E[Display in Chat UI]
     <img src="images/ai-whatsapp-banner.png" alt="AI WhatsApp Chat UI" width="800"/>
   </a>
 </p>
-👉 ai-whatsapp-banner.png
