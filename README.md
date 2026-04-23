@@ -72,7 +72,11 @@ A[User Message] --> B[Flask Backend]
 B --> C[OpenAI API]
 C --> D[AI Response]
 D --> E[Display in Chat UI]
-## 🌐 Live Demo
+## 📱 Demo Preview (WhatsApp-Style UI)
 
-Try it here:  
+<p align="center">
+  <a href="https://ai-whatsapp-assistant.onrender.com" target="_blank">
+    <img src="images/ai-whatsapp-banner.png" alt="AI WhatsApp Chat UI" width="800"/>
+  </a>
+</p>
 👉 ai-whatsapp-banner.png
