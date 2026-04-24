@@ -75,7 +75,7 @@ D --> E[Display in Chat UI]
 ## 📱 Demo Preview (WhatsApp-Style UI)
 
 <p align="center">
-  <a href="https://ai-whatsapp-assistant.onrender.com" target="_blank">
-    <img src="images/ai-whatsapp-banner.png" alt="AI WhatsApp Chat UI" width="800"/>
+  <a href="https://ai-whatsapp-assistant.onrender.com" target="_blank">/images/ai-whatsapp-banner.png
   </a>
 </p>
+[![Live Demo](https://img.shields.io/badge/Try%20Live%20Demo-Click%20Here-brightgreen)](https://ai-whatsapp-assistant.onrender.com)
